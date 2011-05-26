@@ -1,3 +1,7 @@
 Project Name: demoBricks
 
 Controls: arrow keys to move, up arroy key to shoot or throw the ball, 'p' for pause, 'f' for fullscreen
+
+Note: The project was completed by me and my friend. Grphics programming, collision detection and over all code management was done by me. My friend worked on sound and implementaion of rijndael algorithm.
+
+PS: The game seems to be running normal on windows system haveing 256 MB or higher graphics card.
